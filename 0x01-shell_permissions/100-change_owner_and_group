@@ -1,3 +1,2 @@
-#!/bin/bash
-sudo useradd vincent
-chown vincent:staff .
+#!/bin/basht
+chown -R  vincent:staff .
